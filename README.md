@@ -1,2 +1,2 @@
 # bsodder
-Python bsodder (credits to snuser)
+Python bsodder brrrr
